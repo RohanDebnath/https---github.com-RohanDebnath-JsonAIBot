@@ -1,5 +1,5 @@
 {
-    "intentss":[
+    "intents":[
         {"tags":"greetings",
         "patterns":["Hello","Hey","Hi","Greetings","What's Up?","Kaise ho bro?"],
         "responses":["Hello Master!","Hey Master!","Hi Sir!","What can I do for u Master?"]
